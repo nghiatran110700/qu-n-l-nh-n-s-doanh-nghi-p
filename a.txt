@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 alo
 ae thấy cái này chứ nhỉ?
+=======
+ae thấy cái này ko nhỉ?
+>>>>>>> Stashed changes
